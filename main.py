@@ -61,7 +61,7 @@ def upload_file():
 
 # إنشاء نافذة Tkinter
 root = tk.Tk()
-root.title('Arabic Essay AI Evaluator - Ready for GitHub')
+root.title('AEScorer : Digital scoring of Arabic essays')
 root.geometry('700x500')
 
 label = tk.Label(root, text='أدخل نص المقال أو ارفع ملف (Word أو PDF):')
