@@ -1,12 +1,25 @@
-# Arabic Essay AI Project - Ready for GitHub
+# AEScorer
 
-This project provides a realistic AI-based evaluation for Arabic essays using a Tkinter GUI. Users can type/paste text or upload Word (.docx) or PDF (.pdf) files to get a score from 0 to 100 using a free Arabic model from HuggingFace.
+**Automatic Arabic Essay Scoring using AI**  
+تقييم تلقائي للمقالات العربية بالذكاء الاصطناعي
 
-## Files:
-- main.py: Python script with GUI and AI evaluation.
-- README.md: Project description and usage instructions.
+---
 
-## Usage:
-1. Ensure Python is installed with Tkinter support.
-2. Install required packages: pip install transformers torch python-docx PyPDF2
-3. Run main.py to open the GUI.
+## 🌟 الهدف من المشروع
+يهدف هذا المشروع إلى تقديم نظام ذكي لتقييم المقالات العربية تلقائيًا، باستخدام تقنيات معالجة اللغة الطبيعية (NLP) والتعلم الآلي (Machine Learning). يسهّل المشروع عملية تقييم المقالات الأكاديمية والتعليمية بدقة وفعالية، ويقلل الوقت والجهد المبذول في التقييم اليدوي.
+
+---
+
+## 🛠️ التقنيات المستخدمة
+- **Python 3.8+**  
+- **Natural Language Processing (NLP)**  
+- **Machine Learning / Deep Learning**  
+- مكتبات: `scikit-learn`, `pandas`, `numpy`, `tensorflow`, `transformers`  
+
+---
+
+## 🚀 كيفية الاستخدام
+1. استنساخ المستودع:
+```bash
+git clone https://github.com/username/AEScorer.git
+cd AEScorer
